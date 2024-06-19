@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kiranwatharkar/To-Do-React.git/static/css/main.2aa96ae7.css",
+    "main.js": "/kiranwatharkar/To-Do-React.git/static/js/main.e0bbbf8b.js",
+    "index.html": "/kiranwatharkar/To-Do-React.git/index.html",
+    "main.2aa96ae7.css.map": "/kiranwatharkar/To-Do-React.git/static/css/main.2aa96ae7.css.map",
+    "main.e0bbbf8b.js.map": "/kiranwatharkar/To-Do-React.git/static/js/main.e0bbbf8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa96ae7.css",
+    "static/js/main.e0bbbf8b.js"
+  ]
+}
